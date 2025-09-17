@@ -1,5 +1,5 @@
 val sharedSettings = Seq(
-  scalaVersion := "3.7.1",
+  scalaVersion := "3.7.3",
   scalacOptions ++= Seq(
     "-new-syntax",
     // "-no-indent",
